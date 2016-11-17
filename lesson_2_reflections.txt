@@ -1,7 +1,14 @@
 What happens when you initialize a repository? Why do you need to do it?
+A = You initialize a repository stores a hidden .git file in the directory.  this file will helps to ultimatley track the various commits that happen in a responsitory
+
 
 How is the staging area different from the working directory and the repository?
+A = Staging area provides a temporay location to put file toward when about to add a committ
+
 What value do you think it offers?
+A = It allows you to certain of the files that will be put toward a committ (sort of like reviewing your order before finalizing)
+
+
 
 How can you use the staging area to make sure you have one commit per logical
 change?
