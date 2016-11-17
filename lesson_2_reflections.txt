@@ -31,11 +31,18 @@ Branches are helpful when trying something out that might not go anywhere, and u
 Branches ensure the master version doesn't get polluted
 
 
-
+Q:
 How do the diagrams help you visualize the branch structure?
+A
+let's u see how a tree moves over time, which branches are in different paths
+Q
+What is the result of merging two branches together? 
+A Two branches comes together 
+Q
+Why do we represent it in the diagram the way we do?
+A
+TO signify that 2 branches are merging
 
-What is the result of merging two branches together? Why do we represent it in
-the diagram the way we do?
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
