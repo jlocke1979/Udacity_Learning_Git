@@ -19,16 +19,15 @@ Forks:  pulling code from someone else on Github (to modify and play with)
 Clones:  To clone something from GitHub onto local machine (mostly)
 Branch:  To have multiple code branches...different versions etc
 
+Q
+What is the benefit of having a copy of the last known state of the remote stored locally?
+A
+Allows you to work offline if needed knowing you have most up to date version
 
-What is the benefit of having a copy of the last known state of the remote
-stored locally?
+Q
+How would you collaborate without using Git or GitHub?  What would be easier, and what would be harder?
+Manually exchaning files and copy/pasing would be nightmare.  
 
-    Fill in your answer here
-
-How would you collaborate without using Git or GitHub?  What would be easier,
-and what would be harder?
-
-    Fill in your answer here
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
