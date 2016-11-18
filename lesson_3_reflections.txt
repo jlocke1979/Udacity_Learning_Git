@@ -5,11 +5,13 @@ A
 Woring with other individuals / collaborating.  Perhaps when backing up files.
 
 
- 
+Q
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
+A
+Perhaps you are working on something you don't want to get into Github (isn't ready to go public...or you need an older version)
 
-    Fill in your answer here
+
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
