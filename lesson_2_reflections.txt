@@ -37,12 +37,18 @@ A
 let's u see how a tree moves over time, which branches are in different paths
 Q
 What is the result of merging two branches together? 
-A Two branches comes together 
+A Two branches comes together.  Commits get sorted by time stamp,  
+
+
+
+
 Q
 Why do we represent it in the diagram the way we do?
 A
 TO signify that 2 branches are merging
 
+Q
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+A: 
+Git warns the user of conflicts between code when merging (perhaps between you and another user).  The negative is you have to go resolve, the positive is Git doesn't make the decision on its own
 
-What are the pros and cons of Git’s automatic merging vs. always doing merges
-manually?
