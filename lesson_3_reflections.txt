@@ -12,11 +12,13 @@ A
 Perhaps you are working on something you don't want to get into Github (isn't ready to go public...or you need an older version)
 
 
+Q
+Describe the differences between forks, clones, and branches.  When would you use one instead of another?
+A
+Forks:  pulling code from someone else on Github (to modify and play with)
+Clones:  To clone something from GitHub onto local machine (mostly)
+Branch:  To have multiple code branches...different versions etc
 
-Describe the differences between forks, clones, and branches.  When would you
-use one instead of another?
-
-    Fill in your answer here
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
